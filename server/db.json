@@ -1,0 +1,32 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "title": "Queen Elizabeth",
+            "description": "Created with HTML CSS JavaScript",
+            "image": "https://i.pinimg.com/564x/a6/98/06/a69806df2c6a2bd8f8d232b57960952e.jpg",
+            "url": "https://tiny-frangipane-2ee548.netlify.app/"
+        },
+        {
+            "id": 2,
+            "title": "Game of Chess",
+            "description": "Created with HTML CSS JavaScript",
+            "image": "https://i.pinimg.com/564x/a6/03/6e/a6036e99142c90a51d70c9856aa69985.jpg",
+            "url": "https://papaya-fenglisu-b52d04.netlify.app/"
+        },
+        {
+            "id": 3,
+            "title": "Book Store",
+            "description": "Created with HTML CSS",
+            "image": "https://i.pinimg.com/564x/07/27/87/072787e3e4c1240e6176b894bbc4b233.jpg",
+            "url": "https://stirring-dragon-678da6.netlify.app/"
+        },
+        {
+            "id": 4,
+            "title": "Daily To-Do",
+            "description": "Created with HTML CSS JavaScript",
+            "image": "https://i.pinimg.com/564x/95/fe/97/95fe979b681b1783617f1e3f0c1f8209.jpg",
+            "url": "https://extraordinary-sfogliatella-405c50.netlify.app/"
+        }
+    ]
+}
